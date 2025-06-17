@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, Aspiring Novelist, and a wanna-be dungeon master.'
-    subtitle: 'I have a passion for open source software and '
+    subtitle: I
     styles:
       self:
         height: auto
