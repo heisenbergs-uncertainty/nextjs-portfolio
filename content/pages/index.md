@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Matthew Holden
     subtitle: >-
       I have a passion for open source software, epic fantasy novels, and
