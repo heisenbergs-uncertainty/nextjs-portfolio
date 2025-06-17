@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Matthew Holden
-    subtitle: 'I have a passion for Open Source Software and like to use '
+    subtitle: >-
+      I have a passion for open source software, epic fantasy novels, and
+      dungeons and dragons. I also am a dad which is pretty sick.
     styles:
       self:
         height: auto
