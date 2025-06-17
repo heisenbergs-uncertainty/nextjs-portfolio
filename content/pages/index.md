@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Matthew Holden '
-    subtitle: I
+    subtitle: 'I have a passion for Open Source Software and like to use '
     styles:
       self:
         height: auto
