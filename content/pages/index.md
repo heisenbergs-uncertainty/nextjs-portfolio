@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Gemini_Generated_Image_mhj93zmhj93zmhj9.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Matthew Holden
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I have a passion for open source software, epic fantasy novels, and
+      dungeons and dragons. I also am a dad which is pretty sick.
     styles:
       self:
         height: auto
