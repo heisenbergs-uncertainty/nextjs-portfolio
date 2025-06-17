@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Matthew Holden '
+    title: Matthew Holden
     subtitle: 'I have a passion for Open Source Software and like to use '
     styles:
       self:
