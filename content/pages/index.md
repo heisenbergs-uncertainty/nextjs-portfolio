@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, Aspiring Fantasy Novelist, and a wanna be dungeon master.'
-    subtitle: rtat
+    subtitle: ''
     styles:
       self:
         height: auto
