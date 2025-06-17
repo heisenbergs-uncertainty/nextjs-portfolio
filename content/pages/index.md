@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a developer, Aspiring Novelist, and a wanna-be dungeon master.'
+    title: Matthew Holden
     subtitle: I
     styles:
       self:
