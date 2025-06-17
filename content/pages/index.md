@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Matthew Holden
+    title: 'Matthew Holden '
     subtitle: I
     styles:
       self:
