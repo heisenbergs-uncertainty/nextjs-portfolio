@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Gemini_Generated_Image_mhj93zmhj93zmhj9.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
